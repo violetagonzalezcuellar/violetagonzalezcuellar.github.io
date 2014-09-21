@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "SESIÓN DE PRUEBA"
-date:   2014-09-21 
-categories: 
+title:  "Prueba"
+date:   2014-09-21 14:34:25
+categories: jekyll update
 tags: featured
-image: /assets/article_images/desktop.jpg
+image: /assets/article_images/prueba/desktop.jpg
 ---
+
+
 
