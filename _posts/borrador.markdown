@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "SESIÓN DE PRUEBA"
-date:   2014-09-21 
-categories: 
+title:  "Chuleta markdown"
+date:   2014-08-29 14:34:25
+categories: jekyll update
 tags: featured
-image: https://github.com/violetagonzalezcuellar/violetagonzalezcuellar.github.io/blob/master/assets/article_images/prueba/desktop.JPG
+image: /assets/article_images/prueba/desktop.jpg
+---
+
+
 
