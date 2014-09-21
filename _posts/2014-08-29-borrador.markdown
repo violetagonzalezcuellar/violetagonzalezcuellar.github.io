@@ -10,9 +10,6 @@ image: "/assets/article_images/prueba/imagenprueba2.jpg"
 #Prueba imagenes#
 ###subprueba###
 
-Buenas tardes,
-
- en estos momentos me encuentro haciendo pruebas para familiarizarme con el programa. 		
-Disculpen las molestias. Pronto estaré preparada para sumergirme de pleno en esta nueva aventura.
+Buenas tardes, en estos momentos me encuentro haciendo pruebas para familiarizarme con el programa. Disculpen las molestias. Pronto estaré preparada para sumergirme de pleno en esta nueva aventura.
 	
 
