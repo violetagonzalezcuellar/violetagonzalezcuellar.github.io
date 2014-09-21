@@ -4,6 +4,5 @@ title:  "SESIÓN DE PRUEBA"
 date:   2014-09-21 
 categories: 
 tags: featured
-image: /assets/article_images/prueba/desktop.jpg
----
+image: /assets/article_images/prueba/desktop.JPG
 
