@@ -117,14 +117,10 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Economics"
-              value: economics
-            - name: "Data"
-              value: data
-            - name: "Photography"
-              value: photography
-            - name: "Interesting"
-              value: interesting
+            - name: "Educación"
+              value: educacion
+            - name: "Musicoterapia"
+              value: musicoterapia
           alterable: true
       - name: "tags"
         field:
