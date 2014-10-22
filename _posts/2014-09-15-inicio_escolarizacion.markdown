@@ -4,9 +4,7 @@ title: Inicio de la escolarización
 description: "Escolarización y apego"
 category: Educación
 tags: 
-  - design
-  - github
-  - jekyll
+  - Apego
 imagefeature: null
 location: "Madrid, Spain"
 locationgps: null
