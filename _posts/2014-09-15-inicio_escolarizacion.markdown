@@ -2,7 +2,6 @@
 layout: post
 title: Inicio de la escolarización
 description: "Escolarización y apego"
-modified: "2014-09-21 14:34:25"
 category: Educación
 tags: 
   - design
